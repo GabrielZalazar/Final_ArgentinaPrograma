@@ -1,0 +1,119 @@
+<!DOCTYPE html >
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name=viewport" content="width=device-width; inicial-scale=1.0">
+  
+    <title> proyecto </title> 
+	<style>
+	  body{
+	     background-color: #949c9a;
+	   }
+	   div{
+	     background-color: white;
+		 border: 1px solid black;
+		 padding:12px;
+		 width: 60%;
+		 margin: 0 auto;
+		 }
+		 
+		 fieldset {
+		  margin- bottom: 12px;
+		  }
+	   
+	   legend{
+	    background-color : #A3ADA4;
+		padding: 5px;
+		border-radius: 20px;
+		font-weight: bold;
+		}
+	</style>
+ </head>
+ 
+ <body>
+   <div>
+      <img src= "https://randomuser.me/api/portraits/men/40.jpg">
+      <h1> Daniel Armstrong </h1>
+	  <p> Tecnico en analista de sistemas con mas de 5 años de experiencia en industrias
+tecnologica. Especializado en brindar apoyo y asesoria tecnica con mas de 200 empleados y en 
+mantener un indice de sastifaccion de usuario de 9.5. Busco brindar la misma calidad de atencion
+y optimizar el rendimiento de los usuarios informatico.	  </p>
+	  <fieldset>
+	    <legend> Datos personales </legend>
+		<ul>
+	      <li> Fecha de nacimiento: 08/06/1990 </li>
+	      <li> Domicilio: 662 saddle Dr </li>
+	      <li> Telefono:(811) 819-8560 </li>
+		  <li> E- mail: Daniel.armstrong@outlook.com </li>
+		</ul>
+	  </fieldset>
+	  
+	  <fieldset>
+	    <legend> Experiencia laboral </legend>
+		<ul>
+	      <li><strong>  Técnico de Sistemas </strong>
+
+               IT Partners and Co.
+
+               Julio 2015- enero 2020
+
+               <p>- A cargo de proporcionar mantenimiento y soporte para los más de 500 equipos informáticos de la empresa</p>
+               <p>- Creé un protocolo de actuación en caso de averías y problemas que redujo los tiempos de reparación en un 15%.</p>
+               <p>- Gracias a la creación de una serie de videos tutoriales dirigidos al usuario, reduje el número de solicitudes de ayuda diaria en un 25%.</p>
+               <p>- Instauré un nuevo sistema de encuestas para revelar sus índices de satisfacción anuales.</p> </li>
+
+	      <li><strong> Técnico informático</strong>
+
+               PANEL Sistemas Informáticos
+
+               Febrero 2013- julio 2015
+
+               <p> - Responsable de la instalación de sistemas operativos y paquetes de software para los nuevos empleados de la compañía.</p>
+               <p> - Proporcioné mantenimiento a más de 600 equipos de cómputo de forma periódica.</p>
+               <p> - Atendí exitosamente un promedio de 50 solicitudes diarias provenientes de usuarios.</p>
+               <p> - Reduje el tiempo de respuesta de atención de usuario en un 50% </p> </li>
+	      
+		 </ul>
+	  </fieldset>
+	  
+	  <fieldset>
+	    <legend> Formacion academica </legend>
+		<ul>
+	      <li><strong> Universidad tecnologica Nacional</strong> </li>
+		  <p> Tecnicatura en analista de sistemas </p>
+		  <p> año: 2012 - 2016
+	      <li><strong> Colegio secundario con orientacion en BACHILLER </strong></li>
+		  <p> año: 2004 - 2011
+		 </ul>
+	  </fieldset>
+	  
+	  <fieldset>
+	    <legend> Habilidades </legend>
+		<ul>
+	      <li> Conocimientos de redes LAN Y WAN.... </li>
+	      <li> Resolucion de problemas </li>
+		  <li> Html, Css y javascript  </li>
+	      <li> Bases de datos SQLServer</li>
+		  <li> Atencion al usuario  </li>
+	      <li> Aprendizaje rapido </li>
+		 </ul>
+	  </fieldset>
+	  
+	   <fieldset>
+	    <legend> Idiomas </legend>
+		<ul>
+	      <li> Ingles intermedio </li>
+	      <li> frances intermedio  </li>
+		 </ul>
+	  </fieldset>
+	  
+	    
+	  
+   </div>
+  </body>
+  </html>
+  
+  
+
+
+
